@@ -18,6 +18,9 @@ Necessary npm packages:
 2. In the same sql terminal the command 'SOURCE seeds.sql;' needs to be run to have the data. 
 3. Return to the normal terminal run 'node index.js'
 
+[sqlShrimp.webm](https://github.com/LuisMtz-0/SqlShrimp/assets/118570822/89c8d2a4-79ed-4e09-99c3-82ca05a0cb72)
+
+
 ## Credits
 
 Github: luisMtz-0
