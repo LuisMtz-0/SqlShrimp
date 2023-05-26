@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.3.2"
+  },
+  "name": "sqlshrimp",
+  "version": "1.0.0",
+  "description": "schema db",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisMtz-0/SqlShrimp.git"
+  },
+  "keywords": [
+    "schema",
+    "seed"
+  ],
+  "author": "luisMtz-0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisMtz-0/SqlShrimp/issues"
+  },
+  "homepage": "https://github.com/LuisMtz-0/SqlShrimp#readme"
+}
